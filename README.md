@@ -1,11 +1,5 @@
 # Build-a-Scalable-ETL-Pipeline-for-E-commerce-Sales-Data-using-Apache-Airflow-and-Data-Quality-Checks
 
-# Scalable ETL Pipeline for E-commerce Sales Data using Apache Airflow
-
-## Author
-Arepalli Venkata Lakshmi  
-Partnr – Mandatory Task (Week 9)
-
 ---
 
 ## Project Overview
